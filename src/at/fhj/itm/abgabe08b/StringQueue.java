@@ -4,6 +4,10 @@
  * the last processing provides : first edit oldest data.
  */
 
+/**
+ * @author jasmin
+ */
+
 package at.fhj.itm.abgabe08b;
 
 import java.util.NoSuchElementException;
